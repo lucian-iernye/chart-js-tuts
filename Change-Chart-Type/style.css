@@ -1,0 +1,52 @@
+.canvas {
+  width: 700px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.buttons {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+button {
+  margin-left: 8px;
+}
+
+.btn {
+  font-size: 10px;
+  padding: 5px;
+  border-radius: 3px;
+}
+
+.btn-line,
+.btn-polar {
+  background-color: aqua;
+}
+
+.btn-bar,
+.btn-bubble {
+  background-color: blue;
+  color: wheat;
+}
+
+.btn-radar,
+.btn-scatter {
+  background-color: red;
+  color: white;
+}
+
+.btn-doughnut,
+.btn-area {
+  background-color: yellow;
+}
+
+.btn-pie,
+.btn-mixed {
+  background-color: orange;
+}
