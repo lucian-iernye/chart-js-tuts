@@ -2,6 +2,5 @@
 
 Everything about chart js in HTML and JS
 
-## Introduction - Basics
-
-## Feature - Change chart from button
+- Introduction - Basics
+- Feature - Change chart from button
